@@ -5,7 +5,8 @@
 
 @font-face {
     font-family: FallbackFont;
-    src: url(./src/assets/OCHighwayVARVF.woff);
+    src: url(./src/assets/OCHighwayVARVF.woff),
+         url(./src/assets/OCHighwayVARVF.woff2);
 }
 
 @font-face {
