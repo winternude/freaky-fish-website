@@ -20,7 +20,7 @@
                 <div class="item green">
                         <img class="image" src="./src/assets/frame-export-4.jpg" alt="alt text">
                 </div>
-                <div class="item">
+                <div class="item green">
                         <img class="image" src="./src/assets/frame-export-3.jpg" alt="alt text">
                 </div>
         </div>
