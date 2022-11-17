@@ -1,11 +1,12 @@
 @font-face {
-    font-family: HealTheWebB;
+    font-family: webfont;
     src: url(./src/assets/healtheweb-b-regular.woff);
 }
 
 @font-face {
     font-family: AlienFuture;
     src: url(./src/assets/alien-future.woff);
+    
 }
 
 body {
@@ -17,7 +18,7 @@ body {
 }
 
 .copy {
-    font-family: HealTheWebB, 'Trebuchet MS', serif;
+    font-family: webfont, 'Trebuchet MS', serif;
 }
 
 .headline {
