@@ -1,6 +1,11 @@
 @font-face {
-    font-family: webfont;
+    font-family: HealTheWebB;
     src: url(./src/assets/healtheweb-b-regular.woff);
+}
+
+@font-face {
+    font-family: FallbackFont;
+    src: url(./src/assets/OCHighwayVARVF.woff);
 }
 
 @font-face {
@@ -18,7 +23,7 @@ body {
 }
 
 .copy {
-    font-family: webfont, 'Trebuchet MS', serif;
+    font-family: HealTheWebB, FallbackFont, serif;
 }
 
 .headline {
