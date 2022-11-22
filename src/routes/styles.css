@@ -1,17 +1,17 @@
 @font-face {
     font-family: HealTheWebB;
-    src: url(./src/assets/healtheweb-b-regular.woff);
+    src: url(./static/assets/healtheweb-b-regular.woff);
 }
 
 @font-face {
     font-family: FallbackFont;
-    src: url(./src/assets/OCHighwayVARVF.woff),
-         url(./src/assets/OCHighwayVARVF.woff2);
+    src: url(./static/assets/OCHighwayVARVF.woff),
+         url(./static/assets/OCHighwayVARVF.woff2);
 }
 
 @font-face {
     font-family: AlienFuture;
-    src: url(./src/assets/alien-future.woff);
+    src: url(./static/assets/alien-future.woff);
     
 }
 

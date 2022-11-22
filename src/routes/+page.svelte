@@ -6,7 +6,7 @@
     <div class="container">
         <div class="grid">
                 <div class="item red">
-                        <img class="image" src="./src/assets/frame-export-2.jpg" alt="alt text">
+                        <img class="image" src="./static/assets/frame-export-2.jpg" alt="alt text">
                 </div>
                 <div class="item green">
                         <img class="image" src="./src/assets/frame-export-1.jpg" alt="alt text">
